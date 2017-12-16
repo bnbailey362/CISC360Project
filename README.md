@@ -77,6 +77,7 @@ You can run specific sets of tests with each graph coloring algorithm by specify
 Where `group_name` is the name of a test group from this list:
 
 - all (runs every test)
+- 360tests
 - fullins
 - insertions
 - anna
